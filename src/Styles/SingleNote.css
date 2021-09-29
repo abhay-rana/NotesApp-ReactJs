@@ -1,0 +1,31 @@
+.single{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    width:250px;
+    height: 250px;
+    border-radius: 16px;
+    padding: 20px;
+}
+.text_area{
+    background-color:transparent;
+    border: none;
+    outline: none;
+    resize: none;
+    flex: 1;
+    font-size: 1.3rem;
+    font-weight: 900;
+}
+.delete_img{
+    width:25px;
+}
+
+.row{
+    display:flex;
+    justify-content: space-between;
+}
+::placeholder{
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 800;
+}

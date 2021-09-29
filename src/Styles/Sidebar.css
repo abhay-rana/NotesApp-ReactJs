@@ -1,0 +1,22 @@
+.img_plus{
+    width:50px;
+}
+
+.list_color{
+    width: 25px;    
+    height:25px;
+    border-radius: 50%;
+}
+
+.lists{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:15px;
+    /* border: 5px solid black; */
+}
+.dontshow{
+    display: none;
+}
+
